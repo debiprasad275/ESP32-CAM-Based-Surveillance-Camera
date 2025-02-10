@@ -1,4 +1,5 @@
-# ESP32-CAM-Based-Surveillance-Camera
-The ESP32-CAM is a low-cost, Wi-Fi-enabled microcontroller with an integrated camera, making it an ideal choice for developing a compact and affordable surveillance system.This system uses motion detection to capture images/videos and sends real-time notifications to users via Blynk IoT, providing a smart home security solution.
+# ESP32-CAM Motion-Activated Smart Surveillance Camera
+This project is a cost-effective, motion-activated surveillance camera using an ESP32-CAM module with Blynk-based notifications for real-time monitoring. The system detects motion using a PIR sensor, captures images/videos, and sends alerts to users via Blynk IoT. Additional features include parent-child notifications, a buzzer alert system, and cloud storage integration, making it a smart and reliable home security solution.
+
 
 
